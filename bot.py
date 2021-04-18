@@ -15,12 +15,16 @@ bot = commands.Bot(command_prefix='!')
 
 @bot.command(name='cure', help='Display info on a random cure')
 async def cure(ctx):
-    with open('cure_names.txt') as f:
-        cures = f.read().splitlines()
-        cure_name = random.choice(cures)
+    with open('cure_names.txt') as f1, open('civilian_names.txt') as f2:
+        cure_names = f1.read().splitlines()
+        civilian_names = f2.read().splitlines()
+
+        index = random.randint(0, 69)
+        cure = cure_names[index]
+        civilian = civilian_names[index]
 
         response = discord.Embed(
-            title=cure_name
+            title = cure + '/' + civilian
         )
         await ctx.send(embed=response)
 
