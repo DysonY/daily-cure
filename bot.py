@@ -23,8 +23,11 @@ async def cure(ctx):
         cure = cure_names[index]
         civilian = civilian_names[index]
 
+        url_ext = civilian.replace(' ', '_')
+
         response = discord.Embed(
-            title = cure + '/' + civilian
+            title = cure + '/' + civilian,
+            url = 'https://prettycure.fandom.com/wiki/' + url_ext
         )
         await ctx.send(embed=response)
 
