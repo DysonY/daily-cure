@@ -1,6 +1,6 @@
 import os
 import random
-
+import discord
 
 from discord.ext import commands
 from dotenv import load_dotenv
@@ -17,8 +17,12 @@ bot = commands.Bot(command_prefix='!')
 async def cure(ctx):
     with open('cure_names.txt') as f:
         cures = f.read().splitlines()
-        response = random.choice(cures)
-        await ctx.send(response)
+        cure_name = random.choice(cures)
+
+        response = discord.Embed(
+            title=cure_name
+        )
+        await ctx.send(embed=response)
 
 
 bot.run(TOKEN)
