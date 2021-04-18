@@ -1,69 +1,69 @@
-Cure Black,pink
-Cure White,white
-Shiny Luminous,yellow
-Cure Bloom/Bright,pink
-Cure Egret/Windy,white
-Cure Dream,pink
-Cure Rouge,red
-Cure Lemonade,yellow
-Cure Mint,green
-Cure Aqua,blue
-Milky Rose,purple
-Cure Peach,pink
-Cure Berry,blue
-Cure Pine,yellow
-Cure Passion,red
-Cure Blossom,pink
-Cure Marine,blue
-Cure Sunshine,yellow
-Cure Moonlight,purple
-Cure Melody,pink
-Cure Rhythm,white
-Cure Beat,blue
-Cure Muse,yellow
-Cure Happy,pink
-Cure Sunny,red
-Cure Peace,yellow
-Cure March,green
-Cure Beauty,blue
-Cure Heart,pink
-Cure Diamond,blue
-Cure Rosetta,yellow
-Cure Sword,purple
-Cure Ace,red
-Cure Lovely,pink
-Cure Princess,blue
-Cure Honey,yellow
-Cure Fortune,purple
-Cure Flora,pink
-Cure Mermaid,blue
-Cure Twinkle,yellow
-Cure Scarlet,red
-Cure Miracle,pink
-Cure Magical,purple
-Cure Felice,green
-Cure Whip,pink
-Cure Custard,yellow
-Cure Gelato,blue
-Cure Macaron,purple
-Cure Chocolat,red
-Cure Parfait,green
-Cure Yell,pink
-Cure Ange,blue
-Cure Étoile,yellow
-Cure Macherie,red
-Cure Amour,purple
-Cure Star,pink
-Cure Milky,blue
-Cure Soleil,yellow
-Cure Selene,purple
-Cure Cosmo,blue
-Cure Grace,pink
-Cure Fontaine,blue
-Cure Sparkle,yellow
-Cure Earth,,purple
-Cure Summer,white
-Cure Coral,purple
-Cure Papaya,yellow
-Cure Flamingo,red
-Cure Echo,white
+Cure Black;pink;Emissary of Light, Cure Black!
+Cure White;white;Emissary of Light, Cure White!
+Shiny Luminous;yellow;Sparkling life, Shiny Luminous!
+Cure Bloom/Bright;pink;The shining golden flower, Cure Bloom!
+Cure Egret/Windy;white;The sparkling silver wing, Cure Egret!
+Cure Dream;pink;Great Power of Hope, Cure Dream!
+Cure Rouge;red;Red Flower of Passion, Cure Rouge!
+Cure Lemonade;yellow;Effervescent Scent of Lemon, Cure Lemonade!
+Cure Mint;green;Tranquility of the Green Earth, Cure Mint!
+Cure Aqua;blue;Blue Spring of Intelligence, Cure Aqua!
+Milky Rose;purple;The blue rose is my secret emblem! Milky Rose!
+Cure Peach;pink;The pink heart is the emblem of love! Freshly picked, Cure Peach!
+Cure Berry;blue;The blue heart is the emblem of hope! Freshly gathered, Cure Berry!
+Cure Pine;yellow;The yellow heart is the emblem of faith! Freshly harvested, Cure Pine!
+Cure Passion;red;The crimson heart is the emblem of happiness! Freshly ripened, Cure Peach!
+Cure Blossom;pink;The flower that blooms upon the earth, Cure Blossom!
+Cure Marine;blue;The flower that blooms upon the earth, Cure Blossom!
+Cure Sunshine;yellow;The flower that blooms upon the earth, Cure Blossom!
+Cure Moonlight;purple;The flower that blooms upon the earth, Cure Blossom!
+Cure Melody;pink;Strumming the wild tune, Cure Melody!
+Cure Rhythm;white;Strumming the tranquil tune, Cure Rhythm!
+Cure Beat;blue;Strumming the soul's tune, Cure Beat!
+Cure Muse;yellow;Strumming the tune of the goddess, Cure Muse!
+Cure Happy;pink;Twinkling and shining, the light of the future! Cure Happy!
+Cure Sunny;red;The brilliant sun! Hot-blooded power! Cure Sunny!
+Cure Peace;yellow;Sparkling and glittering! Rock, paper, scissors! Cure Peace!
+Cure March;green;Intense courage, a straight up bout! Cure March!
+Cure Beauty;blue;The snow, falling and gathering! A noble heart! Cure Beauty!
+Cure Heart;pink;Brimming with love! Cure Heart!
+Cure Diamond;blue;The light of wisdom! Cure Diamond!
+Cure Rosetta;yellow;The warmth of the sun! Cure Rosetta!
+Cure Sword;purple;The blade of courage! Cure Sword!
+Cure Ace;red;The trump card of love! Cure Ace!
+Cure Lovely;pink;The big love spreading throughout the world! Cure Lovely!
+Cure Princess;blue;The blue wind dancing in the sky! Cure Princess!
+Cure Honey;yellow;The light of life flourishing on the Earth! Cure Honey!
+Cure Fortune;purple;The star of hope that glitters in the night sky! Cure Fortune!
+Cure Flora;pink;Princess of the flourishing flowers! Cure Flora!
+Cure Mermaid;blue;Princess of the crystal clear seas! Cure Mermaid!
+Cure Twinkle;yellow;Princess of the twinkling stars! Cure Twinkle!
+Cure Scarlet;red;Princess of scarlet flames! Cure Scarlet!
+Cure Miracle;pink;Our Miracle! Cure Miracle!
+Cure Magical;purple;Our Magic! Cure Magical!
+Cure Felice;green;Spreading blessings to lives far and wide! Cure Felice!
+Cure Whip;pink;Cure Whip! Is Ready To Serve!
+Cure Custard;yellow;Cure Custard! Is Ready To Serve!
+Cure Gelato;blue;Cure Gelato! Is Ready To Serve!
+Cure Macaron;purple;Cure Macaron! Is Ready To Serve!
+Cure Chocolat;red;Cure Chocolat! Is Ready To Serve!
+Cure Parfait;green;Cure Parfait! Is Ready To Serve!
+Cure Yell;pink;Cheering on everyone! The Pretty Cure of High Spirits! Cure Yell!
+Cure Ange;blue;Healing everyone! The Pretty Cure of Wisdom! Cure Ange!
+Cure Étoile;yellow;Making everyone shine! The Pretty Cure of Strength! Cure Étoile!
+Cure Macherie;red;Loving everyone! The Pretty Cure of Love! Cure Macherie!
+Cure Amour;purple;Loving everyone! The Pretty Cure of Love! Cure Amour!
+Cure Star;pink;The twinkling star that shines throughout the universe! Cure Star!
+Cure Milky;blue;The milky way stretching across the heavens! Cure Milky!
+Cure Soleil;yellow;Light up the sky! With sparkling heat! Cure Soleil!
+Cure Selene;purple;Light up the night sky! With the secretive moonlight! Cure Selene!
+Cure Cosmo;blue;The rainbow spectrum lighting up the galaxy! Cure Cosmo!
+Cure Grace;pink;The two overlapping flowers! Cure Grace!
+Cure Fontaine;blue;The two intersecting streams! Cure Fontaine!
+Cure Sparkle;yellow;The two lights that come together! Cure Sparkle!
+Cure Earth;purple;The two winds that connect through time! Cure Earth!
+Cure Summer;white;Joyful Everlasting Summer! Cure Summer!
+Cure Coral;purple;Glittering Jewels! Cure Coral!
+Cure Papaya;yellow;Sparkling Fruits! Cure Papaya!
+Cure Flamingo;red;Fluttering Wings! Cure Flamingo!
+Cure Echo;white;Deliver my feelings! Cure Echo!
