@@ -27,16 +27,18 @@ async def cure(ctx):
         # Read from file
         cure_names = f1.read().splitlines()
         civilian_names = f2.read().splitlines()
-        index = random.randint(0, 69)
+        index = random.randrange(0, 69)
         data = cure_names[index].split(';')
 
         # Get text to display
         cure = data[0]
         color = colors[data[1]]
         phrase = data[2]
+        team = data[3]
+        age = data[4]
         civilian = civilian_names[index]
 
-        # TODO: images, quotes
+        # TODO: birthday, age, images
         # formatting tutoral: https://python.plainenglish.io/python-discord-bots-formatting-text-efca0c5dc64a
 
         url_ext = civilian.replace(' ', '_')
@@ -47,6 +49,9 @@ async def cure(ctx):
             description = phrase,
             color = color
         )
+        response.add_field(name='Team: ', value=team)
+        response.add_field(name='Age: ', value=age)
+
         await ctx.send(embed=response)
 
 
