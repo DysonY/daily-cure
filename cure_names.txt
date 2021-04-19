@@ -1,57 +1,57 @@
-Cure Black;pink;Emissary of Light, Cure Black!;Max Heart;14/15
-Cure White;white;Emissary of Light, Cure White!;Max Heart;14/15
-Shiny Luminous;yellow;Sparkling life, Shiny Luminous!;Max Heart;13
-Cure Bloom/Bright;pink;The shining golden flower, Cure Bloom!;Splash Star;13/14
-Cure Egret/Windy;white;The sparkling silver wing, Cure Egret!;Splash Star;13/14
-Cure Dream;pink;Great Power of Hope, Cure Dream!;Yes 5;14/15
-Cure Rouge;red;Red Flower of Passion, Cure Rouge!;Yes 5;14/15
-Cure Lemonade;yellow;Effervescent Scent of Lemon, Cure Lemonade!;Yes 5;13/14
-Cure Mint;green;Tranquility of the Green Earth, Cure Mint!;Yes 5;15/16
-Cure Aqua;blue;Blue Spring of Intelligence, Cure Aqua!;Yes 5;15/16
-Milky Rose;purple;The blue rose is my secret emblem! Milky Rose!;Yes 5 GoGo;14
-Cure Peach;pink;The pink heart is the emblem of love! Freshly picked, Cure Peach!;Fresh;14
-Cure Berry;blue;The blue heart is the emblem of hope! Freshly gathered, Cure Berry!;Fresh;14
-Cure Pine;yellow;The yellow heart is the emblem of faith! Freshly harvested, Cure Pine!;Fresh;14
-Cure Passion;red;The crimson heart is the emblem of happiness! Freshly ripened, Cure Peach!;Fresh;14
-Cure Blossom;pink;The flower that blooms upon the earth, Cure Blossom!;Heartcatch;14
-Cure Marine;blue;The flower that blooms upon the earth, Cure Blossom!;Heartcatch;14
-Cure Sunshine;yellow;The flower that blooms upon the earth, Cure Blossom!;Heartcatch;14
-Cure Moonlight;purple;The flower that blooms upon the earth, Cure Blossom!;Heartcatch;17
-Cure Melody;pink;Strumming the wild tune, Cure Melody!;Suite;14
-Cure Rhythm;white;Strumming the tranquil tune, Cure Rhythm!;Suite;14
-Cure Beat;blue;Strumming the soul's tune, Cure Beat!;Suite;14
-Cure Muse;yellow;Strumming the tune of the goddess, Cure Muse!;Suite;9/10
-Cure Happy;pink;Twinkling and shining, the light of the future! Cure Happy!;Smile;14
-Cure Sunny;red;The brilliant sun! Hot-blooded power! Cure Sunny!;Smile;14
-Cure Peace;yellow;Sparkling and glittering! Rock, paper, scissors! Cure Peace!;Smile;14
-Cure March;green;Intense courage, a straight up bout! Cure March!;Smile;14
-Cure Beauty;blue;The snow, falling and gathering! A noble heart! Cure Beauty!;Smile;14
-Cure Heart;pink;Brimming with love! Cure Heart!;DokiDoki;14
-Cure Diamond;blue;The light of wisdom! Cure Diamond!;DokiDoki;14
-Cure Rosetta;yellow;The warmth of the sun! Cure Rosetta!;DokiDoki;14
-Cure Sword;purple;The blade of courage! Cure Sword!;DokiDoki;14
-Cure Ace;red;The trump card of love! Cure Ace!;DokiDoki;10/11
-Cure Lovely;pink;The big love spreading throughout the world! Cure Lovely!;Happiness Charge;14/15
-Cure Princess;blue;The blue wind dancing in the sky! Cure Princess!;Happiness Charge;14
-Cure Honey;yellow;The light of life flourishing on the Earth! Cure Honey!;Happiness Charge;14
-Cure Fortune;purple;The star of hope that glitters in the night sky! Cure Fortune!;Happiness Charge;15
-Cure Flora;pink;Princess of the flourishing flowers! Cure Flora!;Go Princess;13
-Cure Mermaid;blue;Princess of the crystal clear seas! Cure Mermaid!;Go Princess;14
-Cure Twinkle;yellow;Princess of the twinkling stars! Cure Twinkle!;Go Princess;12/13
-Cure Scarlet;red;Princess of scarlet flames! Cure Scarlet!;Go! Princess;13
-Cure Miracle;pink;Our Miracle! Cure Miracle!;Mahou Tsukai;13
-Cure Magical;purple;Our Magic! Cure Magical!;Mahou Tsukai;13/14
-Cure Felice;green;Spreading blessings to lives far and wide! Cure Felice!;Mahou Tsukai;???
-Cure Whip;pink;Cure Whip! Is Ready To Serve!;KiraKira;13/14
-Cure Custard;yellow;Cure Custard! Is Ready To Serve!;KiraKira;14
-Cure Gelato;blue;Cure Gelato! Is Ready To Serve!;KiraKira;14
+Cure Black;pink;Emissary of Light, Cure Black!;Max Heart;14/15;https://static.wikia.nocookie.net/prettycure/images/1/17/Cure_Black_with_Mepple_in_his_Heartful_Commune_form.png/revision/latest?cb=20180517142633
+Cure White;white;Emissary of Light, Cure White!;Max Heart;14/15;https://static.wikia.nocookie.net/prettycure/images/0/0e/Cure_White_with_Mipple_in_his_Heartful_Commune_form.png/revision/latest?cb=20190926051810
+Shiny Luminous;yellow;Sparkling life, Shiny Luminous!;Max Heart;13;https://static.wikia.nocookie.net/prettycure/images/7/77/Pretty_Cure_All_Stars_DX_Shiny_Luminous_pose.png/revision/latest?cb=20190104014657
+Cure Bloom/Bright;pink;The shining golden flower, Cure Bloom!;Splash Star;13/14;https://static.wikia.nocookie.net/prettycure/images/4/42/Pretty_Cure_All_Stars_DX2_Cure_Bloom_pose.png/revision/latest?cb=20190104230649
+Cure Egret/Windy;white;The sparkling silver wing, Cure Egret!;Splash Star;13/14;https://static.wikia.nocookie.net/prettycure/images/1/12/CureEgretDX3intera.jpg/revision/latest?cb=20110904164454
+Cure Dream;pink;Great Power of Hope, Cure Dream!;Yes 5;14/15;https://static.wikia.nocookie.net/prettycure/images/7/74/Pretty_Cure_All_Stars_DX_Cure_Dream_pose.png/revision/latest?cb=20190104021346
+Cure Rouge;red;Red Flower of Passion, Cure Rouge!;Yes 5;14/15;https://static.wikia.nocookie.net/prettycure/images/c/cd/RougeDX3full.jpg/revision/latest?cb=20120206093002
+Cure Lemonade;yellow;Effervescent Scent of Lemon, Cure Lemonade!;Yes 5;13/14;https://static.wikia.nocookie.net/prettycure/images/6/6f/LemonadeDX3full.jpg/revision/latest?cb=20120206102433
+Cure Mint;green;Tranquility of the Green Earth, Cure Mint!;Yes 5;15/16;https://static.wikia.nocookie.net/prettycure/images/b/b3/MintDX3full.jpg/revision/latest?cb=20120206103209
+Cure Aqua;blue;Blue Spring of Intelligence, Cure Aqua!;Yes 5;15/16;https://static.wikia.nocookie.net/prettycure/images/6/67/AquaDX3.jpg/revision/latest?cb=20120206110114
+Milky Rose;purple;The blue rose is my secret emblem! Milky Rose!;Yes 5 GoGo;14;https://static.wikia.nocookie.net/prettycure/images/9/92/Milky.Rose%28new-stage-3%29.png/revision/latest?cb=20141113185906
+Cure Peach;pink;The pink heart is the emblem of love! Freshly picked, Cure Peach!;Fresh;14;https://static.wikia.nocookie.net/prettycure/images/6/69/Pretty_Cure_All_Stars_DX2_Cure_Peach_pose.png/revision/latest?cb=20190104234750
+Cure Berry;blue;The blue heart is the emblem of hope! Freshly gathered, Cure Berry!;Fresh;14;https://static.wikia.nocookie.net/prettycure/images/a/aa/Cure_Berry_Movie_Visual.png/revision/latest?cb=20210113144157
+Cure Pine;yellow;The yellow heart is the emblem of faith! Freshly harvested, Cure Pine!;Fresh;14;https://static.wikia.nocookie.net/prettycure/images/4/4a/Cure_Pine_visual_movie.png/revision/latest?cb=20201128194420
+Cure Passion;red;The crimson heart is the emblem of happiness! Freshly ripened, Cure Peach!;Fresh;14;https://static.wikia.nocookie.net/prettycure/images/8/81/Cure_Passion_visual_movie.png/revision/latest?cb=20201128134916
+Cure Blossom;pink;The flower that blooms upon the earth, Cure Blossom!;Heartcatch;14;https://static.wikia.nocookie.net/prettycure/images/8/82/BlossomDX3full.jpg/revision/latest?cb=20120206133400
+Cure Marine;blue;The flower that blooms upon the earth, Cure Blossom!;Heartcatch;14;https://static.wikia.nocookie.net/prettycure/images/a/a3/MarineDX3full.jpg/revision/latest?cb=20120206141204
+Cure Sunshine;yellow;The flower that blooms upon the earth, Cure Blossom!;Heartcatch;14;https://static.wikia.nocookie.net/prettycure/images/e/ee/SunshineDX3full.jpg/revision/latest?cb=20120206143158
+Cure Moonlight;purple;The flower that blooms upon the earth, Cure Blossom!;Heartcatch;17;https://static.wikia.nocookie.net/prettycure/images/1/14/Deluxe58.jpg/revision/latest?cb=20110325115041
+Cure Melody;pink;Strumming the wild tune, Cure Melody!;Suite;14;https://static.wikia.nocookie.net/prettycure/images/f/f1/Ff.png/revision/latest?cb=20130330165530
+Cure Rhythm;white;Strumming the tranquil tune, Cure Rhythm!;Suite;14;https://static.wikia.nocookie.net/prettycure/images/7/7e/Cure_rhythm_by_candycanecroft-d4739kq.png/revision/latest?cb=20190430093020
+Cure Beat;blue;Strumming the soul's tune, Cure Beat!;Suite;14;https://static.wikia.nocookie.net/prettycure/images/d/d3/Cure_Beat.png/revision/latest?cb=20140410102610
+Cure Muse;yellow;Strumming the tune of the goddess, Cure Muse!;Suite;9/10;https://static.wikia.nocookie.net/prettycure/images/d/dc/Hugtto%21_Precure_Movie_Cure_Muse_Pose.png/revision/latest?cb=20190115100949
+Cure Happy;pink;Twinkling and shining, the light of the future! Cure Happy!;Smile;14;https://static.wikia.nocookie.net/prettycure/images/e/ec/Cure_Happy.png/revision/latest?cb=20140710103717
+Cure Sunny;red;The brilliant sun! Hot-blooded power! Cure Sunny!;Smile;14;https://static.wikia.nocookie.net/prettycure/images/9/99/Cure_Sunny.png/revision/latest?cb=20140710103822
+Cure Peace;yellow;Sparkling and glittering! Rock, paper, scissors! Cure Peace!;Smile;14;https://static.wikia.nocookie.net/prettycure/images/f/f9/Cure_Peace.png/revision/latest?cb=20140710103932
+Cure March;green;Intense courage, a straight up bout! Cure March!;Smile;14;https://static.wikia.nocookie.net/prettycure/images/4/41/Cure_March.png/revision/latest?cb=20140710104020
+Cure Beauty;blue;The snow, falling and gathering! A noble heart! Cure Beauty!;Smile;14;https://static.wikia.nocookie.net/prettycure/images/f/f6/Cure_Beauty.png/revision/latest?cb=20140710104127
+Cure Heart;pink;Brimming with love! Cure Heart!;DokiDoki;14;https://prettycure.fandom.com/wiki/Aida_Mana/Image_Gallery?file=Cure_Heart.png
+Cure Diamond;blue;The light of wisdom! Cure Diamond!;DokiDoki;14;https://static.wikia.nocookie.net/prettycure/images/2/2a/Cure_Diamond.png/revision/latest?cb=20140410102751
+Cure Rosetta;yellow;The warmth of the sun! Cure Rosetta!;DokiDoki;14;https://static.wikia.nocookie.net/prettycure/images/e/e5/Cure_Rosetta.png/revision/latest?cb=20140410102843
+Cure Sword;purple;The blade of courage! Cure Sword!;DokiDoki;14;https://static.wikia.nocookie.net/prettycure/images/9/98/Cure_Sword.png/revision/latest?cb=20190318195021
+Cure Ace;red;The trump card of love! Cure Ace!;DokiDoki;10/11;https://static.wikia.nocookie.net/prettycure/images/d/d4/Cure_Ace.png/revision/latest?cb=20140410103005
+Cure Lovely;pink;The big love spreading throughout the world! Cure Lovely!;Happiness Charge;14/15;https://static.wikia.nocookie.net/prettycure/images/9/9b/Cure_Lovely_Movie.png/revision/latest?cb=20140410101109
+Cure Princess;blue;The blue wind dancing in the sky! Cure Princess!;Happiness Charge;14;https://static.wikia.nocookie.net/prettycure/images/c/c7/Cure_Princess_Movie.png/revision/latest?cb=20140410101019
+Cure Honey;yellow;The light of life flourishing on the Earth! Cure Honey!;Happiness Charge;14;https://static.wikia.nocookie.net/prettycure/images/5/54/Cure_Honey_Movie.png/revision/latest?cb=20140410100813
+Cure Fortune;purple;The star of hope that glitters in the night sky! Cure Fortune!;Happiness Charge;15;https://static.wikia.nocookie.net/prettycure/images/b/b5/Cure_Fortune_Haru_no_Carnival.png/revision/latest?cb=20190105092349
+Cure Flora;pink;Princess of the flourishing flowers! Cure Flora!;Go Princess;13;https://static.wikia.nocookie.net/prettycure/images/5/56/Img_default.png/revision/latest?cb=20150127021941
+Cure Mermaid;blue;Princess of the crystal clear seas! Cure Mermaid!;Go Princess;14;https://static.wikia.nocookie.net/prettycure/images/1/12/Chara_03_A.jpg/revision/latest?cb=20150104105920
+Cure Twinkle;yellow;Princess of the twinkling stars! Cure Twinkle!;Go Princess;12/13;https://static.wikia.nocookie.net/prettycure/images/5/56/Chara_02_A.jpg/revision/latest?cb=20150104110123
+Cure Scarlet;red;Princess of scarlet flames! Cure Scarlet!;Go! Princess;13;https://static.wikia.nocookie.net/prettycure/images/3/31/Scarlett_render.png/revision/latest?cb=20150703104005
+Cure Miracle;pink;Our Miracle! Cure Miracle!;Mahou Tsukai;13;https://static.wikia.nocookie.net/prettycure/images/2/21/CurMiracle.png/revision/latest?cb=20151225211029
+Cure Magical;purple;Our Magic! Cure Magical!;Mahou Tsukai;13/14;https://static.wikia.nocookie.net/prettycure/images/8/8f/CureMagical.png/revision/latest?cb=20151225211045
+Cure Felice;green;Spreading blessings to lives far and wide! Cure Felice!;Mahou Tsukai;???;https://static.wikia.nocookie.net/prettycure/images/f/fb/Img_cahra-default.png/revision/latest?cb=20160601000223
+Cure Whip;pink;Cure Whip! Is Ready To Serve!;KiraKira;13/14;https://static.wikia.nocookie.net/prettycure/images/c/cd/Imagegyhhjjjjjjj.png/revision/latest?cb=20161226193012
+Cure Custard;yellow;Cure Custard! Is Ready To Serve!;KiraKira;14;https://static.wikia.nocookie.net/prettycure/images/9/91/Hugtto%21_Precure_Movie_Cure_Custard_Pose.png/revision/latest?cb=20190117070042
+Cure Gelato;blue;Cure Gelato! Is Ready To Serve!;KiraKira;14;https://static.wikia.nocookie.net/prettycure/images/3/34/Hugtto%21_Precure_Movie_Cure_Gelato_Pose.png/revision/latest?cb=20190117071321
 Cure Macaron;purple;Cure Macaron! Is Ready To Serve!;KiraKira;17
 Cure Chocolat;red;Cure Chocolat! Is Ready To Serve!;KiraKira;17
-Cure Parfait;green;Cure Parfait! Is Ready To Serve!;KiraKira;13
+Cure Parfait;green;Cure Parfait! Is Ready To Serve!;KiraKira;13;https://static.wikia.nocookie.net/prettycure/images/6/60/ParfaitALaMode.png/revision/latest?cb=20180210194357
 Cure Yell;pink;Cheering on everyone! The Pretty Cure of High Spirits! Cure Yell!;HUGtto;13/14
 Cure Ange;blue;Healing everyone! The Pretty Cure of Wisdom! Cure Ange!;HUGtto;13/14
-Cure Étoile;yellow;Making everyone shine! The Pretty Cure of Strength! Cure Étoile!;HUGtto;13
-Cure Macherie;red;Loving everyone! The Pretty Cure of Love! Cure Macherie!;HUGtto;11/12
+Cure Étoile;yellow;Making everyone shine! The Pretty Cure of Strength! Cure Étoile!;HUGtto;13;https://static.wikia.nocookie.net/prettycure/images/d/d3/Etoile_motherheart.png/revision/latest?cb=20190113180939
+Cure Macherie;red;Loving everyone! The Pretty Cure of Love! Cure Macherie!;HUGtto;11/12;https://static.wikia.nocookie.net/prettycure/images/d/d6/MaCh%C3%A9rie-profile.png/revision/latest?cb=20180616235903
 Cure Amour;purple;Loving everyone! The Pretty Cure of Love! Cure Amour!;HUGtto;17
 Cure Star;pink;The twinkling star that shines throughout the universe! Cure Star!;Star Twinkle;13
 Cure Milky;blue;The milky way stretching across the heavens! Cure Milky!;Star Twinkle;13/14
@@ -62,8 +62,8 @@ Cure Grace;pink;The two overlapping flowers! Cure Grace!;Healin' Good;14
 Cure Fontaine;blue;The two intersecting streams! Cure Fontaine!Healin' Good;14
 Cure Sparkle;yellow;The two lights that come together! Cure Sparkle!Healin' Good;14
 Cure Earth;purple;The two winds that connect through time! Cure Earth!Healin' Good;20
-Cure Summer;white;Joyful Everlasting Summer! Cure Summer!;Tropical Rouge;13
-Cure Coral;purple;Glittering Jewels! Cure Coral!;Tropical Rouge;13
-Cure Papaya;yellow;Sparkling Fruits! Cure Papaya!;Tropical Rouge;14
-Cure Flamingo;red;Fluttering Wings! Cure Flamingo!;Tropical Rouge;15
-Cure Echo;white;Deliver my feelings! Cure Echo!;All Stars;14
+Cure Summer;white;Joyful Everlasting Summer! Cure Summer!;Tropical Rouge;13;https://static.wikia.nocookie.net/prettycure/images/0/00/Cure_Summer_Render_Toei.png/revision/latest?cb=20210203232115
+Cure Coral;purple;Glittering Jewels! Cure Coral!;Tropical Rouge;13;https://static.wikia.nocookie.net/prettycure/images/7/76/Cure_Coral_Render.png/revision/latest?cb=20210404213303
+Cure Papaya;yellow;Sparkling Fruits! Cure Papaya!;Tropical Rouge;14;https://static.wikia.nocookie.net/prettycure/images/b/b1/Cure_Papaya_Render.png/revision/latest?cb=20210404213330
+Cure Flamingo;red;Fluttering Wings! Cure Flamingo!;Tropical Rouge;15;https://static.wikia.nocookie.net/prettycure/images/d/dd/Cure_Flamingo_Render.png/revision/latest?cb=20210404213350
+Cure Echo;white;Deliver my feelings! Cure Echo!;All Stars;14;https://static.wikia.nocookie.net/prettycure/images/e/e5/Cure_Echo_fully_body.png/revision/latest?cb=20210312090152
