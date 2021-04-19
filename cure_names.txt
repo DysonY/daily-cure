@@ -45,23 +45,23 @@ Cure Felice;green;Spreading blessings to lives far and wide! Cure Felice!;Mahou 
 Cure Whip;pink;Cure Whip! Is Ready To Serve!;KiraKira;13/14;https://static.wikia.nocookie.net/prettycure/images/c/cd/Imagegyhhjjjjjjj.png/revision/latest?cb=20161226193012
 Cure Custard;yellow;Cure Custard! Is Ready To Serve!;KiraKira;14;https://static.wikia.nocookie.net/prettycure/images/9/91/Hugtto%21_Precure_Movie_Cure_Custard_Pose.png/revision/latest?cb=20190117070042
 Cure Gelato;blue;Cure Gelato! Is Ready To Serve!;KiraKira;14;https://static.wikia.nocookie.net/prettycure/images/3/34/Hugtto%21_Precure_Movie_Cure_Gelato_Pose.png/revision/latest?cb=20190117071321
-Cure Macaron;purple;Cure Macaron! Is Ready To Serve!;KiraKira;17
-Cure Chocolat;red;Cure Chocolat! Is Ready To Serve!;KiraKira;17
+Cure Macaron;purple;Cure Macaron! Is Ready To Serve!;KiraKira;17;https://static.wikia.nocookie.net/prettycure/images/5/59/Hugtto%21_Precure_Movie_Cure_Macaron_Pose.png/revision/latest?cb=20190118010858
+Cure Chocolat;red;Cure Chocolat! Is Ready To Serve!;KiraKira;17;https://static.wikia.nocookie.net/prettycure/images/0/0e/Hugtto%21_Precure_Movie_Cure_Chocolat_Pose.png/revision/latest?cb=20190118011037
 Cure Parfait;green;Cure Parfait! Is Ready To Serve!;KiraKira;13;https://static.wikia.nocookie.net/prettycure/images/6/60/ParfaitALaMode.png/revision/latest?cb=20180210194357
-Cure Yell;pink;Cheering on everyone! The Pretty Cure of High Spirits! Cure Yell!;HUGtto;13/14
-Cure Ange;blue;Healing everyone! The Pretty Cure of Wisdom! Cure Ange!;HUGtto;13/14
+Cure Yell;pink;Cheering on everyone! The Pretty Cure of High Spirits! Cure Yell!;HUGtto;13/14;https://static.wikia.nocookie.net/prettycure/images/a/aa/Profile_of_Cure_Yell.png/revision/latest?cb=20190104002519
+Cure Ange;blue;Healing everyone! The Pretty Cure of Wisdom! Cure Ange!;HUGtto;13/14;https://static.wikia.nocookie.net/prettycure/images/5/53/HuPC-profileimg-Toei-Ange.png/revision/latest?cb=20171227214935
 Cure Étoile;yellow;Making everyone shine! The Pretty Cure of Strength! Cure Étoile!;HUGtto;13;https://static.wikia.nocookie.net/prettycure/images/d/d3/Etoile_motherheart.png/revision/latest?cb=20190113180939
 Cure Macherie;red;Loving everyone! The Pretty Cure of Love! Cure Macherie!;HUGtto;11/12;https://static.wikia.nocookie.net/prettycure/images/d/d6/MaCh%C3%A9rie-profile.png/revision/latest?cb=20180616235903
-Cure Amour;purple;Loving everyone! The Pretty Cure of Love! Cure Amour!;HUGtto;17
-Cure Star;pink;The twinkling star that shines throughout the universe! Cure Star!;Star Twinkle;13
-Cure Milky;blue;The milky way stretching across the heavens! Cure Milky!;Star Twinkle;13/14
-Cure Soleil;yellow;Light up the sky! With sparkling heat! Cure Soleil!;Star Twinkle;14
-Cure Selene;purple;Light up the night sky! With the secretive moonlight! Cure Selene!;Star Twinkle;14
-Cure Cosmo;blue;The rainbow spectrum lighting up the galaxy! Cure Cosmo!;Star Twinkle;14
-Cure Grace;pink;The two overlapping flowers! Cure Grace!;Healin' Good;14
-Cure Fontaine;blue;The two intersecting streams! Cure Fontaine!Healin' Good;14
-Cure Sparkle;yellow;The two lights that come together! Cure Sparkle!Healin' Good;14
-Cure Earth;purple;The two winds that connect through time! Cure Earth!Healin' Good;20
+Cure Amour;purple;Loving everyone! The Pretty Cure of Love! Cure Amour!;HUGtto;17;https://static.wikia.nocookie.net/prettycure/images/4/42/Profile_of_Cure_Amour.png/revision/latest?cb=20190107053046
+Cure Star;pink;The twinkling star that shines throughout the universe! Cure Star!;Star Twinkle;13;https://static.wikia.nocookie.net/prettycure/images/3/39/Cure_Star.png/revision/latest?cb=20181227025201
+Cure Milky;blue;The milky way stretching across the heavens! Cure Milky!;Star Twinkle;13/14;https://static.wikia.nocookie.net/prettycure/images/0/09/Cure_Milky.png/revision/latest?cb=20181227033500
+Cure Soleil;yellow;Light up the sky! With sparkling heat! Cure Soleil!;Star Twinkle;14;https://static.wikia.nocookie.net/prettycure/images/5/59/Cure_Soleil_Asahi.png/revision/latest?cb=20190121120100
+Cure Selene;purple;Light up the night sky! With the secretive moonlight! Cure Selene!;Star Twinkle;14;https://static.wikia.nocookie.net/prettycure/images/2/27/Cure_Selene.png/revision/latest?cb=20181227074652
+Cure Cosmo;blue;The rainbow spectrum lighting up the galaxy! Cure Cosmo!;Star Twinkle;14;https://static.wikia.nocookie.net/prettycure/images/6/6c/Blue_Cat_profile.png/revision/latest?cb=20190623014539
+Cure Grace;pink;The two overlapping flowers! Cure Grace!;Healin' Good;14;https://static.wikia.nocookie.net/prettycure/images/d/d0/Cure_Grace_Asahi_Profile.png/revision/latest?cb=20191225174221
+Cure Fontaine;blue;The two intersecting streams! Cure Fontaine!Healin' Good;14;https://static.wikia.nocookie.net/prettycure/images/1/13/Cure_Fontaine_Asahi_Profile.png/revision/latest?cb=20191225174237
+Cure Sparkle;yellow;The two lights that come together! Cure Sparkle!Healin' Good;14;https://static.wikia.nocookie.net/prettycure/images/8/8c/Cure_Sparkle_Asahi_Profile.png/revision/latest?cb=20191225174323
+Cure Earth;purple;The two winds that connect through time! Cure Earth!Healin' Good;20;https://static.wikia.nocookie.net/prettycure/images/5/52/Earth_Profile_Asahi.png/revision/latest?cb=20200704063712
 Cure Summer;white;Joyful Everlasting Summer! Cure Summer!;Tropical Rouge;13;https://static.wikia.nocookie.net/prettycure/images/0/00/Cure_Summer_Render_Toei.png/revision/latest?cb=20210203232115
 Cure Coral;purple;Glittering Jewels! Cure Coral!;Tropical Rouge;13;https://static.wikia.nocookie.net/prettycure/images/7/76/Cure_Coral_Render.png/revision/latest?cb=20210404213303
 Cure Papaya;yellow;Sparkling Fruits! Cure Papaya!;Tropical Rouge;14;https://static.wikia.nocookie.net/prettycure/images/b/b1/Cure_Papaya_Render.png/revision/latest?cb=20210404213330
